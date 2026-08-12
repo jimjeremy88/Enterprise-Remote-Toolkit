@@ -73,19 +73,19 @@ A modern, enterprise-grade Windows System Administration, Telemetry, and Remote 
 
 | System Telemetry Dashboard | Administrative Tools |
 |:---:|:---:|
-| ![System Dashboard](assets/1.dashboard.png) | ![Admin Tools](assets/2.admin-tools.png) |
+| ![System Dashboard](1.dashboard.png) | ![Admin Tools](2.admin-tools.png) |
 
 | Network Diagnostics | Remote Support Hub |
 |:---:|:---:|
-| ![Network Diagnostics](assets/3.network-diagnostics.png) | ![Remote Support Hub](assets/4.remote-hub.png) |
+| ![Network Diagnostics](3.network-diagnostics.png) | ![Remote Support Hub](4.remote-hub.png) |
 
 | Installed Software Inventory | Windows Services Manager |
 |:---:|:---:|
-| ![Installed Software](assets/5.installed-software.png) | ![Windows Services](assets/6.windows-services.jpg) |
+| ![Installed Software](5.installed-software.png) | ![Windows Services](6.windows-services.png) |
 
 | Startup & Tasks Auditor | IT Audit Report Generator |
 |:---:|:---:|
-| ![Startup Tasks](assets/7.startup-tasks.png) | ![Audit Generator](assets/8.audit-generator.png) |
+| ![Startup Tasks](7.startup-tasks.png) | ![Audit Generator](8.audit-generator.png) |
 
 ---
 
